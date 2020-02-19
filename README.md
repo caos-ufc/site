@@ -11,26 +11,25 @@ If all dependencies and settings are already done, perform the processing offloa
 
 ## **TEAM MEMBRES**
 
-- [Adriano L. Cândido](http://lattes.cnpq.br/1894380906052388)
--- E-mail: adriano@fvs.edu.br
+### [Adriano L. Cândido](http://lattes.cnpq.br/1894380906052388) - E-mail: adriano@fvs.edu.br
 
-- [Pedro P. Alves](http://lattes.cnpq.br/0547229021049089)
--- E-mail: pedroalves@great.ufc.br
+### [Pedro P. Alves](http://lattes.cnpq.br/0547229021049089)
+- E-mail: pedroalves@great.ufc.br
 
 
-- Gabriel B. Santos 
--- E-mail: gabriel.gbs@gmail.com 
+### Gabriel B. Santos 
+- E-mail: gabriel.gbs@gmail.com 
 
-- [Francisco A. A. Gomes](http://lattes.cnpq.br/5271246957499974)
--- E-mail: almada@crateus.ufc.br
+### [Francisco A. A. Gomes](http://lattes.cnpq.br/5271246957499974)
+- E-mail: almada@crateus.ufc.br
 
-- Lincoln S. Rocha 
--- E-mail: 
+### Lincoln S. Rocha 
+- E-mail: 
 
-- Paulo A. L. Rego 
--- E-mail: 
+### Paulo A. L. Rego 
+- E-mail: 
 
-- Fernando A. M. Trinta 
--- E-mail: 
+### Fernando A. M. Trinta 
+- E-mail: 
 
 
