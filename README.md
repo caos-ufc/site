@@ -11,33 +11,27 @@ If all dependencies and settings are already done, perform the processing offloa
 
 ## **TEAM MEMBRES**
 
-Adriano L. Cândido 
-- Lattes: http://lattes.cnpq.br/1894380906052388
+Adriano L. Cândido (http://lattes.cnpq.br/1894380906052388)
 - E-mail: adriano@fvs.edu.br
 
-Pedro P. Alves
-- Lattes: http://lattes.cnpq.br/0547229021049089
+Pedro P. Alves (http://lattes.cnpq.br/0547229021049089)
 - E-mail: pedroalves@great.ufc.br
 
 
-Gabriel B. Santos
+Gabriel B. Santos 
 - Lattes: 
 - E-mail: gabriel.gbs@gmail.com 
 
-Francisco A. A. Gomes
-- Lattes: http://lattes.cnpq.br/5271246957499974
+Francisco A. A. Gomes (http://lattes.cnpq.br/5271246957499974)
 - E-mail: almada@crateus.ufc.br
 
-Lincoln S. Rocha
-- Lattes: 
+Lincoln S. Rocha 
 - E-mail: 
 
-Paulo A. L. Rego
-- Lattes: 
+Paulo A. L. Rego 
 - E-mail: 
 
-Fernando A. M. Trinta
-- Lattes: 
+Fernando A. M. Trinta 
 - E-mail: 
 
 
