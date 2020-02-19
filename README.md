@@ -11,8 +11,8 @@ If all dependencies and settings are already done, perform the processing offloa
 
 ## **TEAM MEMBRES**
 
-[Adriano L. Cândido](http://lattes.cnpq.br/1894380906052388)
-- E-mail: adriano@fvs.edu.br
+- [Adriano L. Cândido](http://lattes.cnpq.br/1894380906052388)
+-- E-mail: adriano@fvs.edu.br
 
 [Pedro P. Alves](http://lattes.cnpq.br/0547229021049089)
 - E-mail: pedroalves@great.ufc.br
