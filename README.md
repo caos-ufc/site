@@ -22,7 +22,7 @@ Gabriel B. Santos
 - Lattes: 
 - E-mail: gabriel.gbs@gmail.com 
 
-[Francisco A. A. Gomes] (http://lattes.cnpq.br/5271246957499974)
+[Francisco A. A. Gomes](http://lattes.cnpq.br/5271246957499974)
 - E-mail: almada@crateus.ufc.br
 
 Lincoln S. Rocha 
