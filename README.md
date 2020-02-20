@@ -25,4 +25,6 @@ If all dependencies and settings are already done, perform the processing offloa
 
 * [Fernando A. M. Trinta](http://lattes.cnpq.br/8908026219336623) - E-mail: fernandotrinta@great.ufc.br 
 
+## **CONTACT**
 
+If you have any questions or suggestions for improvement, please contact us by e-mail: caos.ufc@gmail.com
