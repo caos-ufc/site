@@ -23,6 +23,11 @@ If all dependencies and settings are already done, perform the processing offloa
 
 - [TRINTA, F. A. M.; REGO, P. A. L. ; GOMES, F. A. A. ; ROCHA, L. S. ; SOUZA, J. N. . Using Mobile Cloud Computing for Developing Context-Aware Multimedia Applications - A Case Study of the CAOS Framework. In: Eduardo Barrére; Leandro Krug Wives ; Valter Roesler ; José Valdeni de Lima ; Roberto Willrich. (Org.). Minicursos do XXIII Simpósio Brasileiro de Sistemas Multimídia e Web. 1ed.Porto Alegre: SBC, 2017, v. , p. 177-219.](https://dl.acm.org/doi/10.1145/3126858.3131635)
 
+## **DISSERTATIONS AND THESES**
+
+- [Um Serviço de Offloading de Dados com Suporte à Privacidade](http://www.mdcc.ufc.br/teses/doc_download/330-249-francisco-anderson-de-almada-gomes)
+
+- [Uma Proposta de Solução para Offloading de Métodos entre Dispositivos Móveis](http://www.repositorio.ufc.br/bitstream/riufc/28930/3/2017_dis_gbsantos.pdf)
 
 ## **TEAM MEMBRES**
 
