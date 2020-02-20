@@ -15,7 +15,7 @@ If all dependencies and settings are already done, perform the processing offloa
 
 * [Pedro P. Alves](http://lattes.cnpq.br/0547229021049089) - E-mail: pedroalves@great.ufc.br
 
-* Gabriel B. Santos - E-mail: gabriel.gbs@gmail.com 
+* [Gabriel B. Santos](http://lattes.cnpq.br/3544370603825349) - E-mail: gabriel.gbs@gmail.com 
 
 * [Francisco A. A. Gomes](http://lattes.cnpq.br/5271246957499974) - E-mail: almada@crateus.ufc.br
 
